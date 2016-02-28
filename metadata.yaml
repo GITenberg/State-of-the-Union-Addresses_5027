@@ -1,0 +1,27 @@
+_repo: State-of-the-Union-Addresses_5027
+creator:
+  author:
+    agent_name: Hayes, Rutherford Birchard
+    aliases:
+    - United States President (1877-1881)
+    - Hayes, R. B. (Rutherford Birchard)
+    birthdate: 1822
+    deathdate: 1893
+    gutenberg_agent_id: '1652'
+    url: http://www.gutenberg.org/2009/agents/1652
+    wikipedia: http://en.wikipedia.org/wiki/Rutherford_B._Hayes
+description: ''
+gutenberg_issued: '2004-02-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '5027'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'United States -- Politics and government -- Sources'
+- !lcsh 'Presidents -- United States -- Messages'
+- !lcc 'J'
+title: State of the Union Addresses
+url: http://www.gutenberg.org/ebooks/5027
